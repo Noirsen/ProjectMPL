@@ -2,7 +2,7 @@
 // Database configuration
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "root";
 $dbname = "game_topup_mis";
 
 // Create connection
